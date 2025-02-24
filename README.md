@@ -29,14 +29,21 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 SOFTWARE DEVELOPER:The are  responsible for writing, testing, and maintaining the code that makes up the software application. They implement the technical requirements and functionality as defined by the system's design and specifications.There role is to write code,implimenting features,debbugging and troubleshooting and unit testing.
-QUALITY ASSUARANCE ENGINEER: They focus on ensuring the software is of high quality by identifying bugs, validating functionality, and ensuring the software works as intended. They test the software to find issues before it is deployed to users. 
-
-
+QUALITY ASSUARANCE ENGINEER: They focus on ensuring the software is of high quality by identifying bugs, validating functionality, and ensuring the software works as intended. They test the software to find issues before it is deployed to users. his roles include bug identification and reporting, test planning,perofamance and security testing and test case development.
+PROJECT MANAGER: Is responsible for overseeing the software development process, ensuring the project stays on track, and facilitating communication between the development team and stakeholders. They manage timelines, resources, risks, and ensure the project meets it's goals.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+IDEs are software applications that provide developers with a comprehensive set of tools to write, test, and debug code within a single environment. They integrate various features that streamline the development process, making it more efficient and less error-prone.EXAMPLE: vscode
+Version Control Systems are tools that help developers manage changes to code over time, track revisions, and collaborate with other team members. They provide a way to maintain a history of changes and prevent issues that may arise when multiple developers work on the same project.EXAMPLE:Git
+
+
+
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+DEALING WITH TIGHT DEADLINES:Tight project deadlines often lead to rushed development, shortcuts, and compromised quality. This may result in bugs, incomplete features, and technical debt.STRATEGY TO OVERCOME may include:priotize features Work with stakeholders to prioritize features and focus on delivering the most critical parts first. Use techniques like Minimum Viable Product (MVP) to launch a functional version and iterate upon it.
+DEBBUGING AND TROUBLESHOOTING ISSUES:Identifying the root cause of issues, especially in complex systems or production environments, can be time-consuming and frustrating.
+This can be overcomed by taking advantage of integrated debuggers, logging frameworks, and profiling tools to trace and isolate issues more efficiently.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
