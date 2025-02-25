@@ -47,12 +47,20 @@ This can be overcomed by taking advantage of integrated debuggers, logging frame
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+UNIT TESTING:Is a low level and close to the source of an application. It consist in testing individual methods and functions of the classes, components, or modules used by the software. Unit test is cheap to automate and can run very quickly by a continuous integration server.
+INTERGRATION TEST:It verifies that different modules or services used by the application work well together.
+FUNTIONAL TEST:It focuses on the business requirements of an application. It  only verifies the output of an action and do not check the intermediate states of the system when performing that action.
+ACCEPTANCE TESTING:Is a formal test that verify if a system satisfies business requirements. It requires the entire application to be running while testing and focus on replicating user behaviors. 
+SYSTEM TESTING:is a type of software testing that evaluates the overall functionality and performance of a complete and fully integrated software solution. It tests if the system meets the specified requirements and if it is suitable for delivery to the end-users
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+prompt engineering is the process of training an AI model by asking questions and giving it answers according to what you want it to respond i.e to enable the AI give the desired outputs.
+Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. They help the AI refine the output and present it concisely in the required format.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+VAGAUE PROMPT: draw a car.
+IMPROVED: Draw a car with the make of a volvo.should be a four seater,with the number plates registered in kenya.let a driver be inside the car with a child in the co drivers seat.
